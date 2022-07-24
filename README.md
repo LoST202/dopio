@@ -6,7 +6,7 @@
 
 <h4>Let's start. Dopio code examples will be shown below</h4>
 
-![Flutter]https://img.shields.io/github/stars/Mer4ant/dopio?style=social
+![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=00FF00)
 
 <h5>How to change the selected element's text through Dopio<h5>
   
