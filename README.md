@@ -52,4 +52,4 @@ $(".text").hidden()
 
 <p1>Useful links</p1>
 
-[![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=00FF00)](https://habr.com/ru/amp/post/649363/)
+[![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=4682B4)](https://habr.com/ru/amp/post/649363/)
