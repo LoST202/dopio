@@ -6,7 +6,7 @@
 
 <h4>Let's start. Dopio code examples will be shown below</h4>
 
-https://img.shields.io/github/stars/Mer4ant/dopio?style=social
+![Flutter]https://img.shields.io/github/stars/Mer4ant/dopio?style=social
 
 <h5>How to change the selected element's text through Dopio<h5>
   
