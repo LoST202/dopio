@@ -50,6 +50,6 @@ dopioClass.prototype.hidden = function hidden() {
 $(".text").hidden()
 ```
 
-<h6>Useful links</h6>
+<p1>Useful links</p1>
 
 [![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=00FF00)](https://habr.com/ru/amp/post/649363/)
