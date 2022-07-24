@@ -6,8 +6,6 @@
 
 <h4>Let's start. Dopio code examples will be shown below</h4>
 
-[![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=00FF00)](https://habr.com/ru/amp/post/649363/)
-
 <h5>How to change the selected element's text through Dopio<h5>
   
 ```html
@@ -51,3 +49,7 @@ dopioClass.prototype.hidden = function hidden() {
 // Testing plugin
 $(".text").hidden()
 ```
+
+<h6>Useful links</h6>
+
+[![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=00FF00)](https://habr.com/ru/amp/post/649363/)
